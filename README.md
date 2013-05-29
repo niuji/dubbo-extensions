@@ -1,4 +1,4 @@
-dubbo-extention
+dubbo-extension
 ===============
 
-extentions for alibaba dubbo
+extensions for alibaba dubbo
